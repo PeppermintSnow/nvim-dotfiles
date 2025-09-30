@@ -1,3 +1,6 @@
+-- Set true color support
+vim.opt.termguicolors = true
+
 -- Keymap leader config
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
