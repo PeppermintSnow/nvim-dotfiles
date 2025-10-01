@@ -9,7 +9,7 @@ return {
         CursorLine = { bg = "#002F2C" },
         CursorLineNr = { bg = "#002F2C" },
         CursorLineColumn = { bg = "#002F2C" },
-        StatusLine = { bg = "#002F2C" },
+        StatusLine = { bg = "#001514" },
         LazyNormal = { fg = "#ADD7FF", bg = "#001514" },
         LazyProgress = { fg = "#5DE4C7", bg = "#001514" },
       }
