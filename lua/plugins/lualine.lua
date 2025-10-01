@@ -2,7 +2,7 @@ local tempus_warp_poimandres_theme = {
   normal = {
     a = { fg = '#001514', bg = '#5FB3A1', gui = 'bold' },
     b = { fg = '#5DE4C7', bg = '#002F2C' },
-    c = { fg = '#42675A', bg = '001514' }
+    c = { fg = '#42675A', bg = 'NONE' }
   },
   insert = {
     a = { fg = '#001514', bg = '#5DE4C7', gui = 'bold' },
