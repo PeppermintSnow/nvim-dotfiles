@@ -6,9 +6,9 @@ return {
 		require('poimandres').setup({
       disable_background = true,
       highlight_groups = {
-        CursorLine = { bg = "#002F2C" },
-        CursorLineNr = { bg = "#002F2C" },
-        CursorLineColumn = { bg = "#002F2C" },
+        CursorLine = { bg = "NONE" },
+        CursorLineNr = { bg = "NONE" },
+        CursorLineColumn = { bg = "NONE" },
         StatusLine = { bg = "NONE" },
         LazyNormal = { fg = "#ADD7FF", bg = "#001514" },
         LazyProgress = { fg = "#5DE4C7", bg = "#001514" },
