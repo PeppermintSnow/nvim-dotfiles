@@ -18,6 +18,9 @@ return {
         PmenuSbar = { bg = "NONE" },
         PmenuMatchSel = { bg = "NONE" },
         FloatBorder = { fg = "#5DE4C7" },
+        TreeSitterContext = { fg = "#5DE4C7", bg = "NONE" },
+        TreeSitterContextLineNumber = { fg = "#5FB3A1" },
+        TreeSitterContextLineNumberBottom = { fg = "#5DE4C7" },
       }
     })
 
