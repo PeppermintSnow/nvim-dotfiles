@@ -21,6 +21,7 @@ return {
         TreeSitterContext = { fg = "#5DE4C7", bg = "NONE" },
         TreeSitterContextLineNumber = { fg = "#5FB3A1" },
         TreeSitterContextLineNumberBottom = { fg = "#5DE4C7" },
+        SnacksIndentScope = { fg = "#5DE4C7" },
       }
     })
 
