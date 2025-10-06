@@ -23,6 +23,7 @@ return {
       "yaml",
       "xml",
       "php",
+      "java",
     }
   }
 }

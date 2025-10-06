@@ -1,6 +1,6 @@
 return {
 	'olivercederborg/poimandres.nvim',
-	lazy = false,
+	pcalllazy = false,
 	priority = 1000,
 	config = function()
 		require('poimandres').setup({
@@ -12,6 +12,12 @@ return {
         StatusLine = { bg = "NONE" },
         LazyNormal = { fg = "#ADD7FF", bg = "#001514" },
         LazyProgress = { fg = "#5DE4C7", bg = "#001514" },
+        Pmenu = { fg = "#767C9D", bg = "NONE" },
+        PmenuSel = { fg = "#5DE4C7", bg = "#002F2C" },
+        PmenuThumb = { bg = "#5DE4C7" },
+        PmenuSbar = { bg = "NONE" },
+        PmenuMatchSel = { bg = "NONE" },
+        FloatBorder = { fg = "#5DE4C7" },
       }
     })
 
